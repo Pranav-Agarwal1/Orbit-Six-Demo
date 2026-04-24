@@ -1,0 +1,72 @@
+# ========== UNITY GENERATED ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# MemoryCaptures (Unity profiling)
+MemoryCaptures/
+
+# ========== UNITY CACHE ==========
+# Asset Import Pipeline
+Library/Artifacts/
+Library/ShaderCache/
+
+# ========== IDE / EDITOR ==========
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Rider
+*.DotSettings.user
+
+# ========== OS FILES ==========
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ========== LOGS ==========
+*.log
+
+# ========== BUILD OUTPUT ==========
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+
+# ========== CRASH REPORTS ==========
+sysinfo.txt
+
+# ========== ADDRESSABLES / CACHE ==========
+# (optional, depending on usage)
+ServerData/
+
+# ========== DOTNET / MONO ==========
+*.mdb
+*.opendb
+*.VC.db
+
+# ========== TEMP FILES ==========
+*.bak
+*.swp
+*~
