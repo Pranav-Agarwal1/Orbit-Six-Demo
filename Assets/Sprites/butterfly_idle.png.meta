@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: b739649fa237fff459673675c1cf2247
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 664868933084730507
+    second: butterfly_idle_0
+  - first:
+      213: -8406244077742482921
+    second: butterfly_idle_1
+  - first:
+      213: -217854753621997628
+    second: butterfly_idle_2
+  - first:
+      213: 7321202033688526615
+    second: butterfly_idle_3
+  - first:
+      213: -236428990500718935
+    second: butterfly_idle_4
+  - first:
+      213: -7829554032437830612
+    second: butterfly_idle_5
+  - first:
+      213: -2265980356993414768
+    second: butterfly_idle_6
+  - first:
+      213: -4337509119008450852
+    second: butterfly_idle_7
+  - first:
+      213: 8722163737333180418
+    second: butterfly_idle_8
+  - first:
+      213: 2091038144518799665
+    second: butterfly_idle_9
+  - first:
+      213: -1610833090134223526
+    second: butterfly_idle_10
+  - first:
+      213: -8702940856243969107
+    second: butterfly_idle_11
+  - first:
+      213: 2227456612084764974
+    second: butterfly_idle_12
+  - first:
+      213: -6950882852403800530
+    second: butterfly_idle_13
+  - first:
+      213: 1938943471135048050
+    second: butterfly_idle_14
+  - first:
+      213: -6477353282428116659
+    second: butterfly_idle_15
+  - first:
+      213: -5459136583305057525
+    second: butterfly_idle_16
+  - first:
+      213: 6124581380346244715
+    second: butterfly_idle_17
+  - first:
+      213: -3966902804313008892
+    second: butterfly_idle_18
+  - first:
+      213: -9209536467332236502
+    second: butterfly_idle_19
+  - first:
+      213: -8501428792381144357
+    second: butterfly_idle_20
+  - first:
+      213: 6178995811607691227
+    second: butterfly_idle_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: butterfly_idle_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 515
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8455b2a5c61a3900800000000000000
+      internalID: 664868933084730507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 515
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a9deaac85075b80800000000000000
+      internalID: -8406244077742482921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 515
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c70bbd71460afcf0800000000000000
+      internalID: -217854753621997628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 515
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f3fd2d5722a9560800000000000000
+      internalID: 7321202033688526615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 515
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6b996f51908bcf0800000000000000
+      internalID: -236428990500718935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 393
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cd0da1716d75390800000000000000
+      internalID: -7829554032437830612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 393
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0990569fede9d80e0800000000000000
+      internalID: -2265980356993414768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 393
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6db77ff621ec3c0800000000000000
+      internalID: -4337509119008450852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 393
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208a98405b95b0970800000000000000
+      internalID: 8722163737333180418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_9
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 393
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131c5d71d1cd40d10800000000000000
+      internalID: 2091038144518799665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 271
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55da1ec6db25a9e0800000000000000
+      internalID: -1610833090134223526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 271
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da32852c661f83780800000000000000
+      internalID: -8702940856243969107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 271
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2158e3bcf389ee10800000000000000
+      internalID: 2227456612084764974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 271
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e261e138fd0898f90800000000000000
+      internalID: -6950882852403800530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 271
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271419460d288ea10800000000000000
+      internalID: 1938943471135048050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 149
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4169241281db16a0800000000000000
+      internalID: -6477353282428116659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 149
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b23c383304d34b0800000000000000
+      internalID: -5459136583305057525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 149
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e6285e052eef450800000000000000
+      internalID: 6124581380346244715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 149
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4051c62caeab2f8c0800000000000000
+      internalID: -3966902804313008892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 149
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bf7ae8067213080800000000000000
+      internalID: -9209536467332236502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 27
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd208da4e8bd40a80800000000000000
+      internalID: -8501428792381144357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butterfly_idle_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 27
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfb083f3f330c550800000000000000
+      internalID: 6178995811607691227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      butterfly_idle_0: 664868933084730507
+      butterfly_idle_1: -8406244077742482921
+      butterfly_idle_10: -1610833090134223526
+      butterfly_idle_11: -8702940856243969107
+      butterfly_idle_12: 2227456612084764974
+      butterfly_idle_13: -6950882852403800530
+      butterfly_idle_14: 1938943471135048050
+      butterfly_idle_15: -6477353282428116659
+      butterfly_idle_16: -5459136583305057525
+      butterfly_idle_17: 6124581380346244715
+      butterfly_idle_18: -3966902804313008892
+      butterfly_idle_19: -9209536467332236502
+      butterfly_idle_2: -217854753621997628
+      butterfly_idle_20: -8501428792381144357
+      butterfly_idle_21: 6178995811607691227
+      butterfly_idle_3: 7321202033688526615
+      butterfly_idle_4: -236428990500718935
+      butterfly_idle_5: -7829554032437830612
+      butterfly_idle_6: -2265980356993414768
+      butterfly_idle_7: -4337509119008450852
+      butterfly_idle_8: 8722163737333180418
+      butterfly_idle_9: 2091038144518799665
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
